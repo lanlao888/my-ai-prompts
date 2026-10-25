@@ -34,3 +34,23 @@
 * `Hasselblad H6D-100c` / `Phase One XF` —— 哈苏/飞思中画幅相机（商业大片质感）
 * `100mm macro lens, f/8` —— 微距镜头，保证全景清晰
 * `Ultra-sharp focus, depth of field` —— 极锐聚焦与自然虚化
+
+## 🔗 3. 垫图/图生图专属工作流（Image Prompt Workflow）
+
+> **适用场景**：直接引用商品详情图（如 `https://www.luxurymall.cc/item/1`），利用 AI 替换背景并生成商业大片光影。
+
+### ⚙️ 模版公式（Copy & Paste）：
+`[商品详情图URL]` + `[光影与背景材质描述]` + `[相机与画质参数]`
+
+---
+
+### 💡 常用范例（以 Midjourney / Flux 为例）：
+
+1. **手表/高奢饰品大片**：
+   > `https://www.luxurymall.cc/item/1` rested on a dark vein white marble block, studio product photography, elegant rim lighting, soft caustics reflection, Hasselblad H6D-100c, 85mm macro lens, f/8, ultra-sharp focus, crisp details, commercial lighting, 8k resolution, photorealistic --ar 4:3 --v 6.0
+
+2. **皮具/包包高档展示**：
+   > `https://www.luxurymall.cc/item/105` placed on a minimalist dark grey cement pedestal, warm accent spotlight, soft shadows, high-end luxury fashion editorial style, Phase One XF camera, crisp texture details, ultra-photorealistic --ar 3:4 --v 6.0
+
+3. **香水/高端护肤品艺术感大片**：
+   > `https://www.luxurymall.cc/item/3` surrounded by smooth water ripples and floating flower petals, backlit studio photography, volumetric light rays, soft satin background, cinematic product shot, 8k, hyper-detailed --ar 16:9 --v 6.0
