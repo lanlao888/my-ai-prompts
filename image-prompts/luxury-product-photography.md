@@ -71,3 +71,17 @@
 1. 先生成满意的大理石/影棚背景图。
 2. 使用 **`Vary (Region)`** 涂抹原图中的手表区域。
 3. 输入商品图 URL
+
+## 🎨 5. 预设风格匹配库（Style Presets）
+
+- **[Style-A] 经典奢华黑金（适合：黄金/玫瑰金/正装商务表）**
+  > dark vein white marble block, warm accent spotlight, gold reflection, high-end luxury, commercial lighting
+
+- **[Style-B] 赛车/运动极客（适合：理查米尔/碳纤维/彩色陶瓷）**
+  > minimalist dark carbon fiber texture background, sharp edge rim light, dramatic shadows, futuristic luxury, athletic vibe
+
+- **[Style-C] 极简冷调金属（适合：全钢表/白金/银色盘面）**
+  > matte black acrylic stage, cool frosted glass background, soft diffused light, elegant minimalist
+
+- **[Style-D] 活力缤纷/潮牌大片（适合：Baby Blue/鲜艳胶带款）**
+  > clean pastel gradient background, bright softbox lighting, contemporary studio art fashion
